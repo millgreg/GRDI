@@ -1,0 +1,13 @@
+"","ID","sex","diabetes","diabetes_type","weight_kg","height_m","hemoglobin_gdL"
+"1",1,"female","yes",1,65,1.65,13
+"2",2,"female","yes",2,76,1.71,15
+"3",3,"male","no",NA,82,1.76,14
+"4",4,"male","yes",1,69,1.61,NA
+"5",5,"female","no",NA,79,1.73,12
+"6",6,"male","no",NA,67,1.69,11
+"7",7,"female","no",NA,72,1.72,NA
+"8",8,"male","yes",1,77,1.87,14
+"9",9,"female","yes",2,68,1.74,16
+"10",10,"male","no",NA,84,1.81,10
+"11",11,"female","yes",2,69,1.71,12
+"12",12,"male","yes",1,78,1.78,16
